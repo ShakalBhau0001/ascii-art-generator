@@ -1,1 +1,4 @@
-
+streamlit>=1.35
+pyfiglet>=1.0
+python-docx>=1.1
+fpdf2>=2.7
