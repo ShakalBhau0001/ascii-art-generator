@@ -215,14 +215,17 @@ streamlit run main.py
 
 ## 📸 Preview
 
-### 1. Text to ASCII Tab
-![ASCII Art Generator Preview](assets/Text-Tab.png)
+### 1. ASCII Tab
+![ASCII Art Generator Preview](assets/ASCII-1.png)
 
-### 2. Colored Download (DOCX)
-![ASCII Art Generator Preview](assets/Docx-Export.png)
+### 2. Normal Preview
+![ASCII Art Generator Preview](assets/ASCII-2.png)
 
-### 3. Colored Download (PDF)
-![ASCII Art Generator Preview](assets/Pdf-Export.png)
+### 3. DOCX Preview
+![ASCII Art Generator Preview](assets/ASCII-3.png)
+
+### 3. PDF Preview
+![ASCII Art Generator Preview](assets/ASCII-4.png)
 
 ---
 
