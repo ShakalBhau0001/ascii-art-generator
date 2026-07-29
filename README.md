@@ -1,4 +1,4 @@
-# 🎨 ASCII Art Generator
+# 🎨 ASCII Art Generator Streamlit
 
 ### Text → Colorful ASCII Art — Modern Streamlit App with DOCX & PDF Export
 
@@ -120,7 +120,7 @@ The app uses a tabbed, two-panel layout built with Streamlit.
 ## 📁 Project Structure
 
 ```bash
-ascii-art-generator/
+ascii-art-generator-streamlit/
 │
 ├── assets/
 │   ├── DejaVuSansMono.ttf
@@ -159,8 +159,8 @@ ascii-art-generator/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/ShakalBhau0001/ascii-art-generator.git
-cd ascii-art-generator
+git clone https://github.com/ShakalBhau0001/ascii-art-generator-streamlit.git
+cd ascii-art-generator-streamlit
 ```
 
 ### 2️⃣ Install Dependencies
