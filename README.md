@@ -224,8 +224,14 @@ streamlit run main.py
 ### 3. DOCX Preview
 ![ASCII Art Generator Preview](assets/ASCII-3.png)
 
-### 3. PDF Preview
+### 4. PDF Preview
 ![ASCII Art Generator Preview](assets/ASCII-4.png)
+
+### 5. Instructions Tab
+![ASCII Art Generator Preview](assets/ASCII-5.png)
+
+### 6. About Tab
+![ASCII Art Generator Preview](assets/ASCII-6.png)
 
 ---
 
